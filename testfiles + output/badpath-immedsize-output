@@ -1,0 +1,4 @@
+file badpath-immedsize, line 0019, invalid first operand: #2048
+file badpath-immedsize, line 0025, invalid second operand: #-2049
+
+file badpath-immedsize: processed 28 lines, 2 errors found

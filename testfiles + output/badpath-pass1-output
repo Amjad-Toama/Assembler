@@ -1,0 +1,41 @@
+file badpath-pass1, line 0018, missing operand:         sub #5
+file badpath-pass1, line 0021, missing operand:         sub #5,
+file badpath-pass1, line 0024, missing operand:         red
+file badpath-pass1, line 0030, invalid target operand: #6
+file badpath-pass1, line 0036, invalid operand: #50
+file badpath-pass1, line 0039, undefined instruction name: and
+file badpath-pass1, line 0042, undefined instruction name: jSr
+file badpath-pass1, line 0045, invalid characters: ,r2
+file badpath-pass1, line 0048, invalid characters: ,r3
+file badpath-pass1, line 0051, invalid characters:  blabla
+file badpath-pass1, line 0054, invalid operand: 48
+file badpath-pass1, line 0057, invalid operand: #
+file badpath-pass1, line 0060, invalid characters: r3
+file badpath-pass1, line 0063, label was already declared earlier: Next
+file badpath-pass1, line 0066, label does not start in first column:      label1:   sub  r1,r7
+file badpath-pass1, line 0068, invalid source operand: r3
+file badpath-pass1, line 0071, invalid source operand: #3
+file badpath-pass1, line 0074, invalid operand:  Start
+file badpath-pass1, line 0083, invalid characters:  400
+file badpath-pass1, line 0095, invalid characters: ,3
+file badpath-pass1, line 0098, invalid characters: ,
+file badpath-pass1, line 0101, invalid characters: #123
+file badpath-pass1, line 0104, invalid characters: .4
+file badpath-pass1, line 0107, invalid characters: -5
+file badpath-pass1, line 0110, invalid symbol (Instruction): mov
+file badpath-pass1, line 0113, invalid symbol (Register): r6
+file badpath-pass1, line 0116, label was already declared earlier: DATA1
+file badpath-pass1, line 0122, invalid symbol (Non-alphabetic first character): 1DATA
+file badpath-pass1, line 0131, local label cannot be declared as external: Start
+file badpath-pass1, line 0140, label already designated as external: DATA4
+file badpath-pass1, line 0143, undefined instruction name: DATA2
+file badpath-pass1, line 0146, undefined directive: .DATA
+file badpath-pass1, line 0152, missing opening double quotation: Z7:     .string blabla
+file badpath-pass1, line 0155, invalid characters:  blabla
+file badpath-pass1, line 0161, invalid symbol (Too long name): SuperCalifragilisticExpiAlidocious
+file badpath-pass1, line 0164, missing argument in directive: Z9:     .data
+file badpath-pass1, line 0167, missing argument in directive:         .entry
+file badpath-pass1, line 0170, undefined directive: .invalid
+file badpath-pass1, line 0176, invalid operand:  Next
+
+file badpath-pass1: processed 179 lines, 38 errors found

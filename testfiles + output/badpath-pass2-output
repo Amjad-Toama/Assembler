@@ -1,0 +1,9 @@
+file badpath-pass2, line 0028, undefined label as first operand: Q
+file badpath-pass2, line 0031, undefined label as second operand: Q
+file badpath-pass2, line 0034, undefined label as first operand: X
+file badpath-pass2, line 0037, undefined label as second operand: Y
+file badpath-pass2, line 0046, undefined label: Q
+file badpath-pass2, line 0049, undefined label: X
+file badpath-pass2, line 0052, undefined label: Y
+
+file badpath-pass2: processed 52 lines, 7 errors found

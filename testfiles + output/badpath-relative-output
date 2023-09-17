@@ -1,0 +1,10 @@
+file badpath-relative, line 0027, invalid source operand: %int
+file badpath-relative, line 0030, invalid target operand: %int
+file badpath-relative, line 0033, invalid operand: %int
+file badpath-relative, line 0036, invalid characters: %start
+file badpath-relative, line 0039, invalid characters:  start         
+file badpath-relative, line 0042, invalid characters: 42
+file badpath-relative, line 0045, invalid characters: 5xy
+file badpath-relative, line 0048, invalid operand:  %start
+
+file badpath-relative: processed 48 lines, 8 errors found

@@ -1,0 +1,24 @@
+; file myprog.as
+
+.entry BBKING
+.extern T
+CCCATCH:    add r3,BBKING
+GUNNROSES:    prn #48
+         lea T,r6
+         inc r6
+         mov r3,Z
+         sub r1,r4
+         bne QUEEN
+         cmp Z,#-6
+         bne %QUEEN
+         dec T
+.entry CCCATCH
+         jmp %GUNNROSES
+         add ACDC,ACDC
+QUEEN:     stop
+
+STR:    .string "we are the champions"
+BBKING:   .data 6,-9
+        .data -100
+Z:      .data 31
+.extern ACDC

@@ -1,0 +1,4 @@
+file badpath-datasize, line 0019, data overflow: 2048
+file badpath-datasize, line 0025, data overflow: -2049
+
+file badpath-datasize: processed 28 lines, 2 errors found
